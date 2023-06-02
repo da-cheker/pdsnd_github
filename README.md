@@ -10,6 +10,8 @@ Bikeshare
 
 ### Description
 explorer the Bikeshare Database
+1: Insert your City you like to analyze
+
 
 ### Files used
 	      'chicago': 'chicago.csv',

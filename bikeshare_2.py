@@ -147,6 +147,7 @@ def trip_duration_stats(df):
     start_time = time.time()
 
     # TO DO: display total travel time
+    #refactor maybe online one time
     total_travel_time_sec = df['Trip Duration'].sum()
     print('Total travel Time in sec: ', total_travel_time_sec)
     print('Total travel Time in min: ', (total_travel_time_sec / 60))

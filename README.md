@@ -12,6 +12,7 @@ Bikeshare
 explorer the Bikeshare Database
 1: Insert your City you like to analyze
 2: Insert your Month and day you like to analyze
+3: Than the Programm will analyze the Data
 
 ### Files used
 	      'chicago': 'chicago.csv',

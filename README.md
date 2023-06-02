@@ -14,6 +14,7 @@ explorer the Bikeshare Database
 2: Insert your Month and day you like to analyze
 3: Than the Programm will analyze the Data
 4: First the time stats
+5: second the station stats
 
 ### Files used
 	      'chicago': 'chicago.csv',
